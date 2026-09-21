@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/rsinglacodes/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rsinglacodes/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/rsinglacodes/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/rsinglacodes/LeetCode/tree/master/0394-decode-string) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/rsinglacodes/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rsinglacodes/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/rsinglacodes/LeetCode/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/rsinglacodes/LeetCode/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/rsinglacodes/LeetCode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rsinglacodes/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rsinglacodes/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
