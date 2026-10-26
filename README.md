@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rsinglacodes/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rsinglacodes/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rsinglacodes/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/rsinglacodes/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rsinglacodes/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Divide and Conquer
 |  |
@@ -174,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/rsinglacodes/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rsinglacodes/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rsinglacodes/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/rsinglacodes/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
+## Simulation
+|  |
+| ------- |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/rsinglacodes/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 <!---LeetCode Topics End-->
