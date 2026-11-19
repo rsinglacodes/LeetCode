@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rsinglacodes/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rsinglacodes/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rsinglacodes/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/rsinglacodes/LeetCode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/rsinglacodes/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rsinglacodes/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Divide and Conquer
