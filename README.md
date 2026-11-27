@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rsinglacodes/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/rsinglacodes/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rsinglacodes/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/rsinglacodes/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/rsinglacodes/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rsinglacodes/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rsinglacodes/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/rsinglacodes/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/rsinglacodes/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rsinglacodes/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/rsinglacodes/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/rsinglacodes/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/rsinglacodes/LeetCode/tree/master/0414-third-maximum-number) |
 | [0454-4sum-ii](https://github.com/rsinglacodes/LeetCode/tree/master/0454-4sum-ii) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rsinglacodes/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rsinglacodes/LeetCode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rsinglacodes/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/rsinglacodes/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/rsinglacodes/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/rsinglacodes/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/rsinglacodes/LeetCode/tree/master/0451-sort-characters-by-frequency) |
