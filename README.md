@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rsinglacodes/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rsinglacodes/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/rsinglacodes/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rsinglacodes/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/rsinglacodes/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rsinglacodes/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rsinglacodes/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/rsinglacodes/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/rsinglacodes/LeetCode/tree/master/0071-simplify-path) |
+| [0242-valid-anagram](https://github.com/rsinglacodes/LeetCode/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/rsinglacodes/LeetCode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rsinglacodes/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rsinglacodes/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/rsinglacodes/LeetCode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rsinglacodes/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rsinglacodes/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rsinglacodes/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/rsinglacodes/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rsinglacodes/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/rsinglacodes/LeetCode/tree/master/0414-third-maximum-number) |
