@@ -1,7 +1,5 @@
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
-        Arrays.sort(nums1);
-        Arrays.sort(nums2);
         HashSet<Integer> set1 = new HashSet<>();
         for (int num : nums1) {
             set1.add(num);
@@ -9,19 +7,16 @@ class Solution {
 
         HashSet<Integer> set2 = new HashSet<>();
         for (int num : nums2) {
-            set2.add(num);
-        }
-
-        ArrayList<Integer> res=new ArrayList<>();
-        for(int a:set1){
-            if(set2.contains(a)){
-                res.add(a);
+            if(set1.contains(num)){
+                set2.add(num);
             }
+            
         }
 
-        int[] ans= new int[res.size()];
-        for(int i=0;i<res.size();i++){
-            ans[i]=res.get(i);
+        int[] ans= new int[set2.size()];
+        int a=0;
+        for(int i:set2){
+            ans[a++]=i;
         }
         return ans;
     }
